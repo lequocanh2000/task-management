@@ -1,0 +1,15 @@
+export const drawerWidth = 234;
+export const inputHoverColor = "#e7e7e7";
+export const primaryColor = "#556cd6";
+export const textColor = "#4c4e64de";
+export const titleColor = "#172b4d";
+export const taskDetailTitleColor = "#172b4d";
+export const activeBgColor = "#dbdee9";
+export const todoColor = "87,87,87";
+export const inpropressColor = "7,71,166";
+export const doneColor = "0,102,68";
+export const iconTaskColor = "#69c76e";
+export const iconSubTaskColor = "#4fa1cd";
+export const activeTaskColor = "#dbdee9";
+export const iconDeleteHover = "#e46a6a";
+export const titleColorVer2 = "#3b4b95";
